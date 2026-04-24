@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         bilibili_videos_timer
 // @namespace    https://github.com/Peilin-zzz-Eric/bilibili_videos_timer
-// @version      0.5
+// @version      0.1
 // @license      MIT
 // @description  View Bilibili video collection time information: total duration, watched duration, remaining duration, watched proportion and real-time progress;
 // @author       ezchill
